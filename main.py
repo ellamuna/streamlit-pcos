@@ -45,7 +45,7 @@ row0_spacer3, row3_0, row0_spacer4 = st.columns((0.1, 3.2, 0.1))
 row0_1.title("PCOS Prediction App")
 
 # Load dataset
-df = pd.read_csv('csv\clean_pcos_data.csv')
+df = pd.read_csv('clean_pcos_data.csv')
 
 if selected == "Home":
     with row0_1:
