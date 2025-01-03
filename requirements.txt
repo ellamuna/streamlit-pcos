@@ -89,5 +89,3 @@ validators==0.22.0
 visions==0.7.4
 watchdog==3.0.0
 wcwidth==0.2.13
-yellowbrick @ file:///C:/b/abs_a1sp6btp_z/croot/yellowbrick_1686606088365/work
-zipp @ file:///home/conda/feedstock_root/build_artifacts/zipp_1695255097490/work
