@@ -4,3 +4,4 @@ streamlit
 pip
 scikit-learn
 plotly
+streamli_option_menu
