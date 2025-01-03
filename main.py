@@ -140,7 +140,7 @@ elif selected == "Prediction":
         
         
     #model
-    model = pkl.load(open("dataPCOS\RFC3.pkl", "rb"))
+    model = pkl.load(open("RFC3.pkl", "rb"))
     
     
     feature_names = model.feature_names_in_
