@@ -18,7 +18,6 @@ GitPython==3.1.40
 htmlmin==0.1.12
 idna==3.6
 ImageHash==4.3.1
-imbalanced-learn @ file:///home/conda/feedstock_root/build_artifacts/imbalanced-learn_1716910462712/work
 importlib-metadata==6.11.0
 ipykernel==6.29.5
 ipython==8.30.0
